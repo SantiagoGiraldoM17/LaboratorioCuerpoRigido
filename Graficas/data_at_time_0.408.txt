@@ -1,0 +1,9 @@
+Data at time = 0.408 seconds
+
+XYZ Data:
+ time           x   y           z         Vx  Vy          Vz   radius_x  radius_z  Vx_radius   Vz_radius           Ax           Az    Ax_radius   Az_radius
+0.408 1039.400757 0.0 1355.446777 197.280875 0.0 -508.249917 109.400757 35.446777 168.137953 -518.930659 -2352.397569 -1070.869792 -2410.827067 -935.783665
+
+Angle Data:
+ time      angle  angular_velocity  angular_acceleration
+0.408 -17.952738          4.743392               0.00003
